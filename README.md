@@ -17,7 +17,7 @@
 <body class="stackedit">
   <div class="stackedit__html"><p>ESTRUCTURA DE DOCUMENTACIÓN</p>
 <ol>
-<li>ARCHIVO <a href="http://README.MD">README.md</a><br>
+<li>ARCHIVO <a href="http://README.MD">README</a><br>
 1.1. Título de proyecto<br>
 1.2. Motivación de proyecto (Aquí puedes explicar las razones u objetivos que te llevaron a desarrollar este proyecto)<br>
 1.3. Descripción<br>
