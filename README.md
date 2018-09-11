@@ -4,6 +4,7 @@
 ![alt text](https://github.com/FunPythonEC/Guia_para_documentacion_de_proyectos/blob/master/Imagenes/WhatsApp%20Image%202018-09-11%20at%2013.07.05.jpeg)
 
 # Descripción de contenido de cada archivo
+
 <!DOCTYPE html>
 <html>
 
@@ -17,7 +18,7 @@
 <body class="stackedit">
   <div class="stackedit__html"><p>ESTRUCTURA DE DOCUMENTACIÓN</p>
 <ol>
-<li>ARCHIVO <a href="http://README.MD">README</a><br>
+<li>ARCHIVO <a href="http://README.MD">README.MD</a><br>
 1.1. Título de proyecto<br>
 1.2. Motivación de proyecto (Aquí puedes explicar las razones u objetivos que te llevaron a desarrollar este proyecto)<br>
 1.3. Descripción<br>
