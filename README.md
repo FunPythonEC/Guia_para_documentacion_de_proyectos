@@ -7,6 +7,7 @@
 
 ESTRUCTURA DE DOCUMENTACIÓN
 1.	ARCHIVO README.MD
+-------------------------
 1.1.	Título de proyecto
 1.2.	Motivación de proyecto (Aquí puedes explicar las razones u objetivos que te llevaron a desarrollar este proyecto)
 1.3.	Descripción 
