@@ -4,6 +4,7 @@
 ![alt text](https://github.com/FunPythonEC/Guia_para_documentacion_de_proyectos/blob/master/Imagenes/WhatsApp%20Image%202018-09-11%20at%2013.07.05.jpeg)
 
 # Descripción de contenido de cada archivo
+
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
