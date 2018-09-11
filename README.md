@@ -4,45 +4,30 @@
 ![alt text](https://github.com/FunPythonEC/Guia_para_documentacion_de_proyectos/blob/master/Imagenes/WhatsApp%20Image%202018-09-11%20at%2013.07.05.jpeg)
 
 # Descripción de contenido de cada archivo
+### CONTENIDO DE ARCHIVOS
+____________
+1. **ARCHIVO README**
+	- 1.1. Título de proyecto
+	- 1.2. Motivación de proyecto (Aquí puedes explicar las razones u objetivos que te llevaron a desarrollar este proyecto)
+	- 1.3. Descripción 
+		- 1.3.1. Mencionar uso y autor de librerías externas o terceros
+	- 1.4. Procedimiento (explicar los pasos para ensamblar el proyecto)
+		- 1.4.1. Diagrama general
+		- 1.4.2. Citas o referencias
+	- 1.5. Licencia CC
+2. **ARCHIVO DIAGRAMA ESQUEMÁTICO**
+	- 2.1. Materiales
+	- 2.2. Esquemático de conexión
+3. **ARCHIVOS CÓDIGO FUENTE**
+	- 3.1. Nombrar licencia
+	- 3.2. Versión de software y hardware
+4. **ARCHIVO LICENCIAS (USAR LICENCIA MIT PARA EL CÓDIGO)**
+	- 4.1. Especificar tipo de licencias
+5. **ARCHIVO DETALLE DE LIBRERÍAS**
+	- 5.1. Origen de librerías
+	- 5.2. Funcionamiento
+	- 5.3. Breve documentación
 
-<!DOCTYPE html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
-
-<body class="stackedit">
-  <div class="stackedit__html"><p>ESTRUCTURA DE DOCUMENTACIÓN</p>
-<ol>
-<li>ARCHIVO README.MD<br>
-1.1. Título de proyecto<br>
-1.2. Motivación de proyecto (Aquí puedes explicar las razones u objetivos que te llevaron a desarrollar este proyecto)<br>
-1.3. Descripción<br>
-1.3.1. Mencionar uso y autor de librerías externas o terceros<br>
-1.4. Procedimiento (explicar los pasos para ensamblar el proyecto)<br>
-1.4.1. Diagrama general<br>
-1.4.2. Citas o referencias<br>
-1.5. Licencia CC</li>
-<li>ARCHIVO DIAGRAMA ESQUEMÁTICO<br>
-2.1. Materiales<br>
-2.2. Esquemático de conexión</li>
-<li>ARCHIVOS CÓDIGO FUENTE<br>
-3.1. Nombrar licencia<br>
-3.2. Versión de software y hardware</li>
-<li>ARCHIVO LICENCIAS (USAR LICENCIA MIT PARA EL CÓDIGO)<br>
-4.1. Especificar tipo de licencias</li>
-<li>ARCHIVO DETALLE DE LIBRERÍAS<br>
-5.1. Origen de librerías<br>
-5.2. Funcionamiento<br>
-5.3. Breve documentación</li>
-</ol>
-</div>
-</body>
-
-</html>
 
 
 
