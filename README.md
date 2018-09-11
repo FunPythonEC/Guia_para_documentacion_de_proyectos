@@ -11,14 +11,13 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Estructura de documentacion</title>
+
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
 </head>
 
 <body class="stackedit">
   <div class="stackedit__html"><p>ESTRUCTURA DE DOCUMENTACIÓN</p>
 <ol>
-<li>ARCHIVO <a href="http://README.MD">README.MD</a><br>
 1.1. Título de proyecto<br>
 1.2. Motivación de proyecto (Aquí puedes explicar las razones u objetivos que te llevaron a desarrollar este proyecto)<br>
 1.3. Descripción<br>
