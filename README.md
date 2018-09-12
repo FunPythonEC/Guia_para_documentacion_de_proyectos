@@ -1,7 +1,7 @@
 # Guía para documentación para proyectos FunPythonEC
 
 # Imagen ilustrativa de archivos para documentación de proyectos
-![alt text](https://github.com/FunPythonEC/Guia_para_documentacion_de_proyectos/blob/master/Imagenes/WhatsApp%20Image%202018-09-11%20at%2013.07.05.jpeg)
+![imagen ilustrativa de archivos](https://github.com/FunPythonEC/Guia_para_documentacion_de_proyectos/blob/master/Imagenes/WhatsApp%20Image%202018-09-11%20at%2013.07.05.jpeg)
 
 # Descripción de contenido de cada archivo
 ### CONTENIDO DE ARCHIVOS
